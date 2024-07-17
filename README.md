@@ -1,10 +1,11 @@
---------- MT-MAREX-SIM v2.5: A multithread simulator for P-systems -------------
+--------- 
+MT-MAREX-SIM v2.5: A multithread simulator for P-systems
 
   Daniel Cascado-Caballero, Fernando Diaz-del-Rio, Daniel Cagigas-Muñiz,
     Dept. of Computer Architecture and Technology,
     Universidad de Sevilla, Seville,Spain
 
---------------------------------------------------------------------------------
+--------
 
 SINTAX:
   Simulador [Mo=model] [Bi=BCD_init_st] [Th=threads] [Ns=size] [Li=max_Cs] <Verbosity>
